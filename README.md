@@ -3,7 +3,7 @@
 ### Team Patrick
 
 ## Members:
-* Nuguid, Patrick Nico
+* Nuguid, Patrick Nichol
 * Pasia, Jan Allen
 * Roberto, Generoso
 * Santos, Fatima Grace
